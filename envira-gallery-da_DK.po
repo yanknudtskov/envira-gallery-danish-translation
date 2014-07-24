@@ -1,0 +1,1102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Envira Gallery\n"
+"POT-Creation-Date: 2014-07-24 14:17+0100\n"
+"PO-Revision-Date: 2014-07-24 14:55+0100\n"
+"Last-Translator: Yan Knudtskov Nielsen <yan@virs-artes.dk>\n"
+"Language-Team: Yan Knudtskov Nielsen <yan@virs-artes.dk>\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: envira-gallery.php:502
+#, php-format
+msgid ""
+"Sorry, but your version of WordPress does not meet Envira Gallery's required "
+"version of <strong>3.8</strong> to run properly. The plugin has been "
+"deactivated. <a href=\"%s\">Click here to return to the Dashboard</a>."
+msgstr ""
+"Beklager, men din version af WordPress er ikke kompatibel med Envira "
+"Galleri. Envira Galleri kræver mindst version <strong>3.8</strong> for at "
+"kunne køre ordentligt. Pluginnet er blevet deaktiveret. <a href=\"%s\">Klik "
+"her for, at vende tilbage til kontrolpanelet</a>."
+
+#: includes/admin/editor.php:75
+msgid "Add Gallery"
+msgstr "Tilføj Galleri"
+
+#: includes/admin/editor.php:130
+msgid "Choose Your Gallery"
+msgstr "Vælg dit galleri"
+
+#: includes/admin/editor.php:139
+msgid "This Post's Gallery"
+msgstr "Dette indlægs galleri"
+
+#: includes/admin/editor.php:157 includes/global/widget.php:162
+#, php-format
+msgid "Gallery ID #%s"
+msgstr "Galleri ID #%s"
+
+#: includes/admin/editor.php:172 includes/admin/metaboxes.php:516
+#: includes/admin/metaboxes.php:1150
+msgid "Helpful Tips"
+msgstr "Hjælpsomme Tips"
+
+#: includes/admin/editor.php:173
+msgid "Choosing Your Gallery"
+msgstr "Vælg dit galleri"
+
+#: includes/admin/editor.php:174
+msgid ""
+"To choose your gallery, simply click on one of the boxes to the left. The "
+"\"Insert Gallery\" button will be activated once you have selected a gallery."
+msgstr ""
+"Klik på en af boksene til venstre for, at vælge dit galleri. \"Indsæt Galleri"
+"\" knappen vil blive aktiv, når du har valgt et galleri."
+
+#: includes/admin/editor.php:175
+msgid "Inserting Your Gallery"
+msgstr "Indsæt dit galleri"
+
+#: includes/admin/editor.php:176
+msgid ""
+"To insert your gallery into the editor, click on the \"Insert Gallery\" "
+"button below."
+msgstr ""
+"For, at indsætte dit galleri i editoren, skal du klikke op \"Indsæt Galleri"
+"\" knappen nedenfor."
+
+#: includes/admin/editor.php:188
+msgid "Cancel Gallery Insertion"
+msgstr "Annuller indsættelse af galleri"
+
+#: includes/admin/editor.php:191
+msgid "Insert Gallery"
+msgstr "Indsæt Galleri"
+
+#: includes/admin/import.php:84
+msgid "Sorry, but you lack the permissions to import a gallery to this post."
+msgstr ""
+"Beklager, men du har ikke tilladelse til, at importere et galleri til dette "
+"indlæg."
+
+#: includes/admin/import.php:89
+msgid ""
+"Sorry, but the post ID you are attempting to import the gallery to cannot "
+"handle a gallery."
+msgstr ""
+"Beklager, men det indlægs ID du forsøger, at importere galleriet til, kan "
+"ikke håndtere gallerier."
+
+#: includes/admin/import.php:94
+msgid "Sorry, but there are no files available to import a gallery."
+msgstr ""
+"Beklager, men der er ikke nogle filer tilgængelig til, at importere et "
+"galleri."
+
+#: includes/admin/import.php:99
+msgid ""
+"Sorry, but you have attempted to upload a gallery import file with an "
+"incompatible filename. Envira Gallery import files must begin with \"envira-"
+"gallery\"."
+msgstr ""
+"Beklager, men du har forsøgt at uploade en galleri import-fil med et "
+"ukompatibelt filnavn. Envira Galleri import-filer begynder med \"gallery\"."
+
+#: includes/admin/import.php:104
+msgid ""
+"Sorry, but Envira Gallery import files must be in <code>.json</code> format."
+msgstr ""
+"Beklager, men Envira Galleri import-filer skal være lavet i <code>.json</"
+"code> format."
+
+#: includes/admin/import.php:111
+msgid ""
+"Sorry, but there was an error retrieving the contents of the gallery export "
+"file. Please try again."
+msgstr ""
+"Beklager, men der skete en fejl mens indholdet af galleri export-filen blev "
+"hentet. Prøv venligst igen."
+
+#: includes/admin/import.php:147
+#, php-format
+msgid "Imported Gallery #%s"
+msgstr "Importeret Galleri #%s"
+
+#: includes/admin/import.php:206
+msgid "No valid URL found for the image ID #"
+msgstr "Der blev ikke fundet en gyldig URL for dette billede ID #"
+
+#: includes/admin/import.php:251
+msgid "Could not retrieve a valid image from the URL "
+msgstr "Kunne ikke hente et gyldigt billede fra den angivne URL adresse"
+
+#: includes/admin/import.php:576
+msgid ""
+"Envira gallery imported. Please check to ensure all images and data have "
+"been imported properly."
+msgstr ""
+"Envira galleri blev importeret. Tjek venligst, at alle billeder og data er "
+"blevet importeret korrekt."
+
+#: includes/admin/license.php:128 includes/admin/license.php:207
+#: includes/admin/license.php:296
+msgid ""
+"There was an error connecting to the remote key API. Please try again later."
+msgstr ""
+"Der skete en fejl under forbindelsen til fjern API nøglen. Prøv venligst "
+"igen senere."
+
+#: includes/admin/license.php:145
+msgid "Congratulations! This site is now receiving automatic updates."
+msgstr "Tillykke! Dette website kan nu modtage automatiske opdateringer."
+
+#: includes/admin/license.php:249
+msgid "Congratulations! Your key has been refreshed successfully."
+msgstr "Tillykke! Din nøgle er blevet opdateret!"
+
+#: includes/admin/license.php:307
+msgid ""
+"Congratulations! You have deactivated the key from this site successfully."
+msgstr "Tillykke! Du har deaktiveret nøgle fra dette website."
+
+#: includes/admin/license.php:401
+#, php-format
+msgid ""
+"No valid license key has been entered, so automatic updates for Envira "
+"Gallery have been turned off. <a href=\"%s\">Please click here to enter your "
+"license key and begin receiving automatic updates.</a>"
+msgstr ""
+"Der er ikke angivet en gyldig licens nøgle, så de automatiske opdateringer "
+"af Envira Galleri er slået fra. <a href=\"%s\">Klik venligst her for, at "
+"angive din licens nøgle og begynd, at modtage automatiske opdateringer.</a>"
+
+#: includes/admin/license.php:410
+#, php-format
+msgid ""
+"Your license key for Envira Gallery has expired. <a href=\"%s\" target="
+"\"_blank\">Please click here to renew your license key and continue "
+"receiving automatic updates.</a>"
+msgstr ""
+"Din licens nøgle til Envira Galleri er udløbet. <a href=\"%s\" target="
+"\"_blank\">Klik venligst her for, at forny din licens nøgle, så du kan "
+"modtage automatiske opdateringer.</a>"
+
+#: includes/admin/license.php:419
+msgid ""
+"Your license key for Envira Gallery has been disabled. Please use a "
+"different key to continue receiving automatic updates."
+msgstr ""
+"Din licens nøgle til Envira Galleri er blevet deaktiveret. Anvend venligst "
+"en anden licens nøgle for, at fortsætte med, at modtage automatisk "
+"opdateringer."
+
+#: includes/admin/license.php:428
+msgid ""
+"Your license key for Envira Gallery is invalid. The key no longer exists or "
+"the user associated with the key has been deleted. Please use a different "
+"key to continue receiving automatic updates."
+msgstr ""
+"Din licens nøgle til Envira Galleri er ugyldig. Licens nøglen eksisterer "
+"enten ikke længere eller også er brugeren der er associeret med licens "
+"nøglen blevet slettet. Anvend venligst en anden licens nøgle for, at "
+"fortsætte med, at modtage automatiske opdateringer."
+
+#: includes/admin/media.php:63
+#, php-format
+msgid ""
+"The web browser on your device cannot be used to upload files. You may be "
+"able to use the <a href=\"%s\">native app for your device</a> instead."
+msgstr ""
+"Web browseren på din enhed kan ikke anvendes til, at uploade filer med. Du "
+"kan muligvis anvende <a href=\"%s\">standard funktionaliteten</a> på din "
+"enhed i stedet."
+
+#: includes/admin/media.php:105
+msgid "Drop images here"
+msgstr "Træk billeder herind"
+
+#: includes/admin/media.php:106
+msgctxt "Uploader: Drop images here - or - Select Images"
+msgid "or"
+msgstr "eller"
+
+#: includes/admin/media.php:108
+msgid "Select Images"
+msgstr "Vælg billeder"
+
+#: includes/admin/media.php:118 includes/admin/media.php:120
+msgid "Upload"
+msgstr "Upload"
+
+#: includes/admin/media.php:121
+msgid "Cancel"
+msgstr "Annuller"
+
+#: includes/admin/media.php:127
+#, php-format
+msgid "Maximum upload file size: %d%s."
+msgstr "Maksimum fil upload størrelse: %d%s"
+
+#: includes/admin/media.php:132
+msgid ""
+"Your browser has some limitations uploading large files with the multi-file "
+"uploader. Please use the browser uploader for files over 100MB."
+msgstr ""
+"Din browser har nogle begrænsninger med upload af store filer med multi-fil "
+"uploaderen. Anvend venligst browser uploaderen for filer over 100MB."
+
+#: includes/admin/metaboxes.php:131
+msgid "Click Here to Insert from Other Image Sources"
+msgstr "Klik her for, at indsættes slides fra andre kilder"
+
+#: includes/admin/metaboxes.php:133
+msgid "You must select a file to import before continuing."
+msgstr "Du skal vælge en fil, at importere før du kan fortsætte."
+
+#: includes/admin/metaboxes.php:135
+msgid "Inserting..."
+msgstr "Indsætter..."
+
+#: includes/admin/metaboxes.php:141
+msgid "Are you sure you want to remove this image from the gallery?"
+msgstr "Er du sikker på, at du vil fjerne denne slide fra galleriet?"
+
+#: includes/admin/metaboxes.php:144
+msgid "Saving..."
+msgstr "Gemmer..."
+
+#: includes/admin/metaboxes.php:196
+msgid "Allowed Files"
+msgstr "Tilladte filer"
+
+#: includes/admin/metaboxes.php:258 includes/admin/settings.php:80
+msgid "Envira Gallery Settings"
+msgstr "Envira Galleri Indstillinger"
+
+#: includes/admin/metaboxes.php:363
+msgid "Images"
+msgstr "Billeder"
+
+#: includes/admin/metaboxes.php:364
+msgid "Config"
+msgstr "Opsætning"
+
+#: includes/admin/metaboxes.php:365
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: includes/admin/metaboxes.php:366
+msgid "Thumbnails"
+msgstr "Thumbnails"
+
+#: includes/admin/metaboxes.php:371
+msgid "Misc"
+msgstr "Misc"
+
+#: includes/admin/metaboxes.php:390
+msgid ""
+"The GD or Imagick libraries are not installed on your server. Envira Gallery "
+"requires at least one (preferably Imagick) in order to crop images and may "
+"not work properly without it. Please contact your webhost and ask them to "
+"compile GD or Imagick for your PHP install."
+msgstr ""
+"GD eller Imagick bilbioteket er ikke installeret på din server. Envira "
+"Galleri kræver at mindst en af disse (helst Imagick) for, at kunne croppe "
+"billeder og virker muligvis ikke ordentligt uden. Kontakt venligst din "
+"udbyder og bed dem om, at compile GD eller Imagick til din PHP installation."
+
+#: includes/admin/metaboxes.php:438
+msgid "(click the icon to open and close the overlay dialog)"
+msgstr "(Klik på ikonet for at åbne eller lukke overlay dialogen)"
+
+#: includes/admin/metaboxes.php:439
+msgid "Click here to view meta information about this gallery."
+msgstr "Klik her for at se meta informationen om dette galleri."
+
+#: includes/admin/metaboxes.php:441
+msgid ""
+"You can place this gallery anywhere into your posts, pages, custom post "
+"types or widgets by using <strong>one</strong> the shortcode(s) below:"
+msgstr ""
+"Du kan indsætte dette galleri hvor som helst i dine indlæg, sider, indlægs "
+"typer eller widgets ved, at anvende <strong>én</strong> af følgende "
+"shortcode(s):"
+
+#: includes/admin/metaboxes.php:446
+msgid ""
+"You can also place this gallery into your template files by using "
+"<strong>one</strong> the template tag(s) below:"
+msgstr ""
+"Du kan også placere dette galleri i dine template filer ved at bruge "
+"<strong>én</strong> af følgende template tag(s):"
+
+#: includes/admin/metaboxes.php:474 includes/admin/metaboxes.php:528
+msgid "Insert Images into Gallery"
+msgstr "Indsæt billeder i galleriet"
+
+#: includes/admin/metaboxes.php:478
+msgid "Library Images"
+msgstr "Mediebiblioteks Billeder"
+
+#: includes/admin/metaboxes.php:488
+msgid "Search"
+msgstr "Søg"
+
+#: includes/admin/metaboxes.php:491
+msgid "Load More Images from Library"
+msgstr "Indlæs flere billeder fra mediebiblioteket"
+
+#: includes/admin/metaboxes.php:517
+msgid "Selecting Images"
+msgstr "Vælg Billeder"
+
+#: includes/admin/metaboxes.php:518
+msgid ""
+"You can insert any image from your Media Library into your gallery. If the "
+"image you want to insert is not shown on the screen, you can either click on "
+"the \"Load More Images from Library\" button to load more images or use the "
+"search box to find the images you are looking for."
+msgstr ""
+"Du kan indsætte et hvert billede fra Medie Biblioteket i din slider. Hvis "
+"det billede du ønsker, at indsætte, ikke vises på skærmen kan du enten "
+"klikke på \"Indlæs flere billeder\" knappen for at indlæse flere billeder "
+"eller bruge søgefunktionen til, at finde de billeder, du leder efter."
+
+#: includes/admin/metaboxes.php:553
+msgid ""
+"The settings below adjust the basic configuration options for the gallery "
+"lightbox display."
+msgstr ""
+"Indstillingerne nedenfor tilpasser basis opsætningen for visning af galleri "
+"lightbox visninger."
+
+#: includes/admin/metaboxes.php:558
+msgid "Number of Gallery Columns"
+msgstr "Antal Galleri Kolonner"
+
+#: includes/admin/metaboxes.php:566
+msgid "Determines the number of columns in the gallery."
+msgstr "Indstiller antallet af kolonner i galleriet."
+
+#: includes/admin/metaboxes.php:571
+msgid "Gallery Theme"
+msgstr "Galleri Tema"
+
+#: includes/admin/metaboxes.php:579
+msgid "Sets the theme for the gallery display."
+msgstr "Indstiller temaet for galleri visningen."
+
+#: includes/admin/metaboxes.php:584
+msgid "Column Gutter Width"
+msgstr "Kolonner Gutter Bredde"
+
+#: includes/admin/metaboxes.php:587 includes/admin/metaboxes.php:596
+#: includes/admin/metaboxes.php:614 includes/admin/metaboxes.php:632
+#: includes/admin/metaboxes.php:800 includes/admin/metaboxes.php:809
+msgid "px"
+msgstr "px"
+
+#: includes/admin/metaboxes.php:588
+msgid "Sets the space between the columns (defaults to 10)."
+msgstr "Indstiller mellemrummet mellem kolonner (standard er 10)."
+
+#: includes/admin/metaboxes.php:593
+msgid "Margin Below Each Image"
+msgstr "Margin under hver billede"
+
+#: includes/admin/metaboxes.php:597
+msgid "Sets the space below each item in the gallery."
+msgstr "Indstiller mellemrummet under hvert billede i galleriet."
+
+#: includes/admin/metaboxes.php:602
+msgid "Crop Images in Gallery?"
+msgstr "Crop billeder i galleriet?"
+
+#: includes/admin/metaboxes.php:606
+msgid "Enables or disables image cropping for the main gallery images."
+msgstr ""
+"Aktiverer eller deaktiverer billede cropping for hovedgalleriets billeder.."
+
+#: includes/admin/metaboxes.php:611
+msgid "Crop Dimensions"
+msgstr "Crop Dimensioner"
+
+#: includes/admin/metaboxes.php:615
+msgid ""
+"You should adjust these dimensions based on the number of columns in your "
+"gallery."
+msgstr ""
+"Du bør justere disse dimensioner baseret på antallet af kolonner i galleriet."
+
+#: includes/admin/metaboxes.php:620
+msgid "Create Mobile Gallery Images?"
+msgstr "Lav Mobil Galleri billeder?"
+
+#: includes/admin/metaboxes.php:624
+msgid "Enables or disables creating specific images for mobile devices."
+msgstr ""
+"Aktiverer eller deaktiverer om der skal genereres billeder specifikt til "
+"mobile enheder."
+
+#: includes/admin/metaboxes.php:629
+msgid "Mobile Dimensions"
+msgstr "Mobil Dimensioner"
+
+#: includes/admin/metaboxes.php:633
+msgid "These will be the sizes used for images displayed on mobile devices."
+msgstr "Størrelsen for billederne der skal vises på mobile enheder."
+
+#: includes/admin/metaboxes.php:655
+msgid "The settings below adjust the lightbox outputs and displays."
+msgstr "Indstillingerne nedenfor justerer hvordan lightbox visninger ser ud."
+
+#: includes/admin/metaboxes.php:660
+msgid "Gallery Lightbox Theme"
+msgstr "Galleri Lightbox Tema"
+
+#: includes/admin/metaboxes.php:668
+msgid "Sets the theme for the gallery lightbox display."
+msgstr "Indstiller temaet for galleri lightbox visninger."
+
+#: includes/admin/metaboxes.php:673
+msgid "Gallery Title Position"
+msgstr "Galleri Titel Position"
+
+#: includes/admin/metaboxes.php:681
+msgid "Sets the display of the lightbox title."
+msgstr "Indstiller visningen for lightbox titlen."
+
+#: includes/admin/metaboxes.php:686
+msgid "Enable Gallery Arrows?"
+msgstr "Slå Galleri pile til?"
+
+#: includes/admin/metaboxes.php:690
+msgid "Enables or disables the gallery lightbox navigation arrows."
+msgstr "Aktiverer eller deaktiverer galleri lightbox navigations pilene."
+
+#: includes/admin/metaboxes.php:695
+msgid "Enable Keyboard Navigation?"
+msgstr "Brug tastatur navigation?"
+
+#: includes/admin/metaboxes.php:699
+msgid "Enables or disables keyboard navigation in the gallery lightbox."
+msgstr "Aktiverer eller deaktiverer tastatur navigation for galleri lightbox."
+
+#: includes/admin/metaboxes.php:704
+msgid "Enable Mousewheel Navigation?"
+msgstr "Brug musehjuls navigation?"
+
+#: includes/admin/metaboxes.php:708
+msgid "Enables or disables mousewheel navigation in the gallery."
+msgstr "Aktiverer eller deaktiverer musehjuls navigation for galleriet."
+
+#: includes/admin/metaboxes.php:713
+msgid "Enable Gallery Toolbar?"
+msgstr "Slå Galleri værktøjslinjen til?"
+
+#: includes/admin/metaboxes.php:717
+msgid "Enables or disables the gallery lightbox toolbar."
+msgstr "Aktiverer eller deaktiverer galleriets lightbox værktøjslinje."
+
+#: includes/admin/metaboxes.php:722
+msgid "Gallery Toolbar Position"
+msgstr "Galleri Værktøjslinje Position"
+
+#: includes/admin/metaboxes.php:730
+msgid "Sets the position of the lightbox toolbar."
+msgstr "Indstiller positionen for lightbox værktøjslinjen."
+
+#: includes/admin/metaboxes.php:735
+msgid "Keep Aspect Ratio?"
+msgstr "Behold aspekt ratio?"
+
+#: includes/admin/metaboxes.php:739
+msgid ""
+"If enabled, images will always resize based on the original aspect ratio."
+msgstr ""
+"Hvis denne er slået til, vil billeder bliver skalleret, baseret på deres "
+"originale aspekt ratio."
+
+#: includes/admin/metaboxes.php:744
+msgid "Loop Gallery Navigation?"
+msgstr "Kør i ring?"
+
+#: includes/admin/metaboxes.php:748
+msgid ""
+"Enables or disables infinite navigation cycling of the lightbox gallery."
+msgstr "Aktiverer eller deaktiverer at galleriets navigation kan køre i ring."
+
+#: includes/admin/metaboxes.php:753
+msgid "Lightbox Transition Effect"
+msgstr "Lightbox Transition Effekt"
+
+#: includes/admin/metaboxes.php:761
+msgid "Type of transition between images in the lightbox view."
+msgstr "Typen af transition mellem billeder i lightbox visning."
+
+#: includes/admin/metaboxes.php:783
+msgid ""
+"If enabled, thumbnails are generated automatically inside the lightbox. The "
+"settings below adjust the thumbnail views for the gallery lightbox display."
+msgstr ""
+"Hvis denne er slået til, vil thumbnails blive genereret automatisk inde i "
+"lightboxen. Indstillingerne nedenfor tilpasser thumbnail visningen for "
+"galleriet."
+
+#: includes/admin/metaboxes.php:788
+msgid "Enable Gallery Thumbnails?"
+msgstr "Slå Galleri Thumbnails til?"
+
+#: includes/admin/metaboxes.php:792
+msgid "Enables or disables the gallery lightbox thumbnails."
+msgstr "Aktiverer eller deaktiverer galleri lightbox thumbnails."
+
+#: includes/admin/metaboxes.php:797
+msgid "Gallery Thumbnails Width"
+msgstr "Galleri Thumbnails bredde"
+
+#: includes/admin/metaboxes.php:801
+msgid "Sets the width of each lightbox thumbnail."
+msgstr "Indstiller bredden på hver lightbox thumbnail."
+
+#: includes/admin/metaboxes.php:806
+msgid "Gallery Thumbnails Height"
+msgstr "Galleri Thumbnail Højde"
+
+#: includes/admin/metaboxes.php:810
+msgid "Sets the height of each lightbox thumbnail."
+msgstr "Indstiller højden for hver lightbox thumbnail."
+
+#: includes/admin/metaboxes.php:815
+msgid "Gallery Thumbnails Position"
+msgstr "Galleri Thumbnail Position"
+
+#: includes/admin/metaboxes.php:823
+msgid "Sets the position of the lightbox thumbnails."
+msgstr "Indstiller positionen for lightbox thumbnails."
+
+#: includes/admin/metaboxes.php:845
+msgid ""
+"The settings below adjust the miscellaneous settings for the gallery "
+"lightbox display."
+msgstr ""
+"Indstillingerne nedenfor indstiller forskellige ting for galleriets lightbox "
+"visning."
+
+#: includes/admin/metaboxes.php:850
+msgid "Gallery Title"
+msgstr "Galleri Titel"
+
+#: includes/admin/metaboxes.php:854
+msgid "Internal gallery title for identification in the admin."
+msgstr ""
+"Intern galleri titel til identifikation af galleriet, i kontrolpanelet."
+
+#: includes/admin/metaboxes.php:859
+msgid "Gallery Slug"
+msgstr "Galleri Slug"
+
+#: includes/admin/metaboxes.php:863
+msgid ""
+"<strong>Unique</strong> internal gallery slug for identification and "
+"advanced gallery queries."
+msgstr ""
+"<strong>Unikt</strong> internt galleri slug til identifikation ved brug af "
+"avanceret galleri queries."
+
+#: includes/admin/metaboxes.php:868
+msgid "Custom Gallery Classes"
+msgstr "Custom Galleri Classes"
+
+#: includes/admin/metaboxes.php:871
+msgid "Enter custom gallery CSS classes here, one per line."
+msgstr "Indsæt din CSS klasse her, en per linje."
+
+#: includes/admin/metaboxes.php:872
+msgid "Adds custom CSS classes to this gallery. Enter one class per line."
+msgstr "Tilføjer CSS klasses til galleriet. En per linje."
+
+#: includes/admin/metaboxes.php:877
+msgid "Import/Export Gallery"
+msgstr "Importér/eksportér galleri"
+
+#: includes/admin/metaboxes.php:887
+msgid "Import Gallery"
+msgstr "Importér galleri"
+
+#: includes/admin/metaboxes.php:894
+msgid "Export Gallery"
+msgstr "Eksportér galleri"
+
+#: includes/admin/metaboxes.php:900
+msgid "Enable RTL Support?"
+msgstr "Slå RTL support til?"
+
+#: includes/admin/metaboxes.php:904
+msgid "Enables or disables RTL support in Envira for right-to-left languages."
+msgstr ""
+"Aktiverer eller deaktiverer TRL support for Envire Galleri for højre-mod-"
+"venstre sprog."
+
+#: includes/admin/metaboxes.php:1078
+msgid "Remove Image from Gallery?"
+msgstr "Fjern billede fra galleriet?"
+
+#: includes/admin/metaboxes.php:1079
+msgid "Modify Image"
+msgstr "Redigér billede"
+
+#: includes/admin/metaboxes.php:1106
+msgid "Edit Metadata"
+msgstr "Redigér Metadata"
+
+#: includes/admin/metaboxes.php:1116
+msgid "Image Title"
+msgstr "Billedtitel"
+
+#: includes/admin/metaboxes.php:1119
+msgid "Sets the image title attribute for the image."
+msgstr "Sætter billede titel attributten for billedet."
+
+#: includes/admin/metaboxes.php:1123
+msgid "Image Alt Text"
+msgstr "Billede \"Alt\" tekst"
+
+#: includes/admin/metaboxes.php:1126
+msgid ""
+"The image alt text is used for SEO. You should probably fill this one out!"
+msgstr ""
+"Billede \"alt\" teksten anvendes til SEO. Du bør formentlig udfylde denne!"
+
+#: includes/admin/metaboxes.php:1130
+msgid "Image Hyperlink"
+msgstr "Billede hyperlink"
+
+#: includes/admin/metaboxes.php:1133
+msgid ""
+"The image hyperlink determines what opens up in the lightbox once the image "
+"is clicked. If this link is set to a regular web page, it will go to that "
+"page. Defaults to a larger version of the image itself."
+msgstr ""
+"Billedhyperlink der bestemmer hvad, der åbner i lightboxen, når billedet "
+"klikkes på. Hvis denne er sat til en hjemmeside, vil den gå til den "
+"hjemmeside. Hvis denne er tom vil billedet åbne i en større version. "
+
+#: includes/admin/metaboxes.php:1137
+msgid "Image Caption"
+msgstr "Billedtekst"
+
+#: includes/admin/metaboxes.php:1140
+msgid "Image captions can take any type of HTML."
+msgstr "Billedtekst kan anvende en form for HTML."
+
+#: includes/admin/metaboxes.php:1151
+msgid "Image Titles"
+msgstr "Billedetekster"
+
+#: includes/admin/metaboxes.php:1152
+msgid ""
+"Image titles can take any type of HTML. You can adjust the position of the "
+"titles in the main Lightbox settings."
+msgstr ""
+"Billedtitel kan tage en hver form for HTML. Du kan tilpasse positionen af "
+"titlerne i de generelle Lightbox indstillinger."
+
+#: includes/admin/metaboxes.php:1153
+msgid "Image Hyperlinks"
+msgstr "Billed hyperlinks"
+
+#: includes/admin/metaboxes.php:1154
+msgid ""
+"The image hyperlink field is used when you click on an image in the gallery. "
+"It determines what is displayed in the lightbox view. It could be a larger "
+"version of the image, a video, or some other form of content."
+msgstr ""
+"Billedhyperlink der bestemmer hvad, der åbner i lightboxen, når billedet "
+"klikkes på. Det kunne være en større version af billedet, en video eller en "
+"anden form for indhold."
+
+#: includes/admin/metaboxes.php:1155
+msgid "Saving and Exiting"
+msgstr "Gemmer og lukker"
+
+#: includes/admin/metaboxes.php:1156
+msgid ""
+"Click on the button below to save your image metadata. You can close this "
+"window by either clicking on the \"X\" above or hitting the <code>esc</code> "
+"key on your keyboard."
+msgstr ""
+"Klik på knappen nedenfor, for, at gemme billedets metadata. Du kan lukke "
+"dette vindue enten ved, at klikke på \"X\" ovenfor eller trykke på "
+"<code>esc</code> tasten på dit tastatur."
+
+#: includes/admin/metaboxes.php:1164
+msgid "Save Metadata"
+msgstr "Gem metadata"
+
+#: includes/admin/posttype.php:76 includes/global/widget.php:148
+msgid "Title"
+msgstr "Titel"
+
+#: includes/admin/posttype.php:77
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/admin/posttype.php:78
+msgid "Function"
+msgstr "Funktion"
+
+#: includes/admin/posttype.php:79
+msgid "Number of Images"
+msgstr "Antal billeder"
+
+#: includes/admin/posttype.php:80
+msgid "Last Modified"
+msgstr "Sidste Ændring"
+
+#: includes/admin/posttype.php:81
+msgid "Date"
+msgstr "Dato"
+
+#: includes/admin/posttype.php:159 includes/admin/posttype.php:162
+msgid "Envira gallery updated."
+msgstr "Envira galleri opdateret."
+
+#: includes/admin/posttype.php:160
+msgid "Envira gallery custom field updated."
+msgstr "Envira galleri custom field opdateret."
+
+#: includes/admin/posttype.php:161
+msgid "Envira gallery custom field deleted."
+msgstr "Envira galleri custom field slettet."
+
+#: includes/admin/posttype.php:163
+#, php-format
+msgid "Envira gallery restored to revision from %s."
+msgstr "Envira galleri genskabt til revision fra %s."
+
+#: includes/admin/posttype.php:164
+msgid "Envira gallery published."
+msgstr "Envira galleri udgivet."
+
+#: includes/admin/posttype.php:165
+msgid "Envira gallery saved."
+msgstr "Envira galleri gemt."
+
+#: includes/admin/posttype.php:166
+msgid "Envira gallery submitted."
+msgstr "Envira galleri indsendt."
+
+#: includes/admin/posttype.php:167
+#, php-format
+msgid "Envira gallery scheduled for: <strong>%1$s</strong>."
+msgstr "Envira galleri planlagt til: <strong>%1$s</strong>."
+
+#: includes/admin/posttype.php:167
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: includes/admin/posttype.php:168
+msgid "Envira gallery draft updated."
+msgstr "Envira galleri kladde opdateret."
+
+#: includes/admin/settings.php:81 includes/admin/settings.php:476
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: includes/admin/settings.php:160 includes/admin/settings.php:318
+msgid "Status: Active"
+msgstr "Status: Aktive"
+
+#: includes/admin/settings.php:161 includes/admin/settings.php:339
+msgid "Activate"
+msgstr "Aktivér"
+
+#: includes/admin/settings.php:163
+msgid "Activating..."
+msgstr "Aktiverer..."
+
+#: includes/admin/settings.php:165 includes/admin/settings.php:320
+msgid "Deactivate"
+msgstr "Deaktiver"
+
+#: includes/admin/settings.php:167
+msgid "Deactivating..."
+msgstr "Deaktiverer..."
+
+#: includes/admin/settings.php:168 includes/admin/settings.php:337
+msgid "Status: Inactive"
+msgstr "Status: Inaktiv"
+
+#: includes/admin/settings.php:169
+msgid "Install"
+msgstr "Installér"
+
+#: includes/admin/settings.php:171
+msgid "Installing..."
+msgstr "Installerer..."
+
+#: includes/admin/settings.php:172
+msgid "Proceed"
+msgstr "Forsæt"
+
+#: includes/admin/settings.php:220
+msgid "General"
+msgstr "Generelt"
+
+#: includes/admin/settings.php:221
+msgid "Addons"
+msgstr "Addons"
+
+#: includes/admin/settings.php:242
+msgid "Envira License Key"
+msgstr "Envira Licens Nøgle"
+
+#: includes/admin/settings.php:248
+msgid "Verify Key"
+msgstr "Verificér nøgle"
+
+#: includes/admin/settings.php:249
+msgid "Deactivate Key"
+msgstr "Deaktiver nøgle"
+
+#: includes/admin/settings.php:250
+msgid "License key to enable automatic updates for Envira."
+msgstr ""
+"Licens nøgle til at slå automatiske opdateringer af Envira Galleri til."
+
+#: includes/admin/settings.php:257
+msgid "Envira License Key Type"
+msgstr "Envira Galleri Licens Nøgle Type"
+
+#: includes/admin/settings.php:261
+#, php-format
+msgid "Your license key type for this site is <strong>%s.</strong>"
+msgstr "Din licens nøgle type for dette site er <strong>%s.</strong>"
+
+#: includes/admin/settings.php:264
+msgid "Refresh Key"
+msgstr "Opdater nøgle"
+
+#: includes/admin/settings.php:265
+msgid ""
+"Your license key type (handles updates and Addons). Click refresh if your "
+"license has been upgraded or the type is incorrect."
+msgstr ""
+"Din licens nøgle type (håndterer opdateringer og Addons). Klik opdater hvis "
+"din licens er blevet opgraderet eller typen der vises, ikke er korrekt."
+
+#: includes/admin/settings.php:293
+msgid ""
+"In order to get access to Addons, you need to verify your license key for "
+"Envira Gallery."
+msgstr ""
+"For at få adgang til Addons skal du bekræfte din licens nøgle til Envira "
+"Galleri."
+
+#: includes/admin/settings.php:297
+msgid ""
+"Missing addons that you think you should be able to see? Try clicking the "
+"button below to refresh the addon data."
+msgstr ""
+"Mangler der addons du mener du burde have? Prøv at klikke på knappen "
+"nedenfor og opdatér addon data."
+
+#: includes/admin/settings.php:299 includes/admin/settings.php:354
+msgid "Refresh Addons"
+msgstr "Opdatér addons"
+
+#: includes/admin/settings.php:328
+msgid "Status: Not Installed"
+msgstr "Status: Ikke installeret"
+
+#: includes/admin/settings.php:330
+msgid "Install Addon"
+msgstr "Installér Addon"
+
+#: includes/admin/settings.php:352
+msgid ""
+"There was an issue retrieving the addons for this site. Please click on the "
+"button below the refresh the addons data."
+msgstr ""
+"Der opstod et problem med at hente addons til dette website. Klik venligst "
+"på knappen nedenfor og opdatér addon data."
+
+#: includes/admin/settings.php:360
+msgid ""
+"In order to get access to Addons, you need to resolve your license key "
+"errors."
+msgstr ""
+"For at få adgang til Addons, skal du først løse problemerne med din licens "
+"nøgle."
+
+#: includes/admin/skin.php:79
+msgid "There was an error installing the addon. Please try again."
+msgstr ""
+"Der opstod et problem under installationen af det valgte addon. Prøv "
+"venligst igen."
+
+#: includes/global/common.php:63
+msgid "One Column (1)"
+msgstr "En Kolonne (1)"
+
+#: includes/global/common.php:67
+msgid "Two Columns (2)"
+msgstr "To Kolonner (2)"
+
+#: includes/global/common.php:71
+msgid "Three Columns (3)"
+msgstr "Tre Kolonner (3)"
+
+#: includes/global/common.php:75
+msgid "Four Columns (4)"
+msgstr "Fire Kolonner (4)"
+
+#: includes/global/common.php:79
+msgid "Five Columns (5)"
+msgstr "Fem Kolonner (5)"
+
+#: includes/global/common.php:83
+msgid "Six Columns (6)"
+msgstr "Seks Kolonner (6)"
+
+#: includes/global/common.php:103 includes/global/common.php:124
+msgid "Base"
+msgstr "Base"
+
+#: includes/global/common.php:145
+msgid "Float"
+msgstr "Float"
+
+#: includes/global/common.php:149
+msgid "Inside"
+msgstr "Indeni"
+
+#: includes/global/common.php:153
+msgid "Outside"
+msgstr "Udenfor"
+
+#: includes/global/common.php:157
+msgid "Over"
+msgstr "Ovenover"
+
+#: includes/global/common.php:177
+msgid "Fade"
+msgstr "Fade"
+
+#: includes/global/common.php:181
+msgid "Elastic"
+msgstr "Elastisk"
+
+#: includes/global/common.php:185
+msgid "No Effect"
+msgstr "Ingen Effekt"
+
+#: includes/global/common.php:205 includes/global/common.php:229
+msgid "Top"
+msgstr "Top"
+
+#: includes/global/common.php:209 includes/global/common.php:233
+msgid "Bottom"
+msgstr "Bund"
+
+#: includes/global/common.php:351
+msgid ""
+"No image editor could be selected. Please verify with your webhost that you "
+"have either the GD or Imagick image library compiled with your PHP install "
+"on your server."
+msgstr ""
+"Der er kunne ikke vælges nogen billedeeditor. Bekræft venligst, at din "
+"udbyder har kompileret GD eller Imagick til din PHP installation."
+
+#: includes/global/common.php:454
+msgid "No image URL specified for cropping."
+msgstr "Der er ikke angivet nogen billede URL til cropping."
+
+#: includes/global/common.php:473 includes/global/common.php:487
+#: includes/global/common.php:505
+msgid "No file could be found for the image URL specified."
+msgstr "Der blev ikke fundet nogen fil for den angivne billede URL."
+
+#: includes/global/common.php:513 includes/global/common.php:526
+msgid ""
+"The dimensions of the original image could not be retrieved for cropping."
+msgstr ""
+"Dimensionerne fra det oprindelige billede kunne ikke hentes til cropping."
+
+#: includes/global/posttype.php:52
+msgid "Envira Galleries"
+msgstr "Envira Gallerier"
+
+#: includes/global/posttype.php:53 includes/global/posttype.php:63
+#: includes/global/widget.php:64
+msgid "Envira Gallery"
+msgstr "Envira Galleri"
+
+#: includes/global/posttype.php:54
+msgid "Add New"
+msgstr "Tilføj Ny"
+
+#: includes/global/posttype.php:55
+msgid "Add New Envira Gallery"
+msgstr "Tilføj Nyt Envira Galleri"
+
+#: includes/global/posttype.php:56
+msgid "Edit Envira Gallery"
+msgstr "Redigér Envira Galleri"
+
+#: includes/global/posttype.php:57
+msgid "New Envira Gallery"
+msgstr "Nyt Envira Galleri"
+
+#: includes/global/posttype.php:58
+msgid "View Envira Gallery"
+msgstr "Se Envira Galleri"
+
+#: includes/global/posttype.php:59
+msgid "Search Envira Galleries"
+msgstr "Søg Envira Gallerier"
+
+#: includes/global/posttype.php:60
+msgid "No Envira galleries found."
+msgstr "Ingen Envira Gallerier blev fundet."
+
+#: includes/global/posttype.php:61
+msgid "No Envira galleries found in trash."
+msgstr "Ingen Envira Gallerier blev fundet i papirkurven."
+
+#: includes/global/shortcode.php:358
+msgid "The requested content cannot be loaded.<br/>Please try again later.</p>"
+msgstr ""
+"Det forespurgte indhold kan ikke indlæses <br />Prøv venligst igen senere</p>"
+
+#: includes/global/shortcode.php:359 includes/global/shortcode.php:647
+msgid "Close"
+msgstr "Luk"
+
+#: includes/global/shortcode.php:360 includes/global/shortcode.php:645
+msgid "Next"
+msgstr "Næste"
+
+#: includes/global/shortcode.php:361 includes/global/shortcode.php:643
+msgid "Previous"
+msgstr "Forrige"
+
+#: includes/global/widget.php:52
+msgid "Place an Envira gallery into a widgetized area."
+msgstr "Placér et Envira Galleri i et widget område."
+
+#: includes/global/widget.php:153
+msgid "Gallery"
+msgstr "Galleri"
